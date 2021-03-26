@@ -1,1 +1,3 @@
-print("Hello world my name is Denzell and I love Python")
+userName = input ("Hello! Please enter you name!")
+
+print ("Hello", userName, "nice to meet you")
